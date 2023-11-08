@@ -471,6 +471,41 @@
   povs: [erin, ryoka]
   guests: [rags, pisces, ksvmr, ceria, olesm, zevara, gazi]
 -
+  title: "2.05"
+  url: "https://wanderinginn.com/2017/03/28/2-06/"
+  prereqs: ["2.04"]
+  rank: 1
+  povs: [erin, ryoka]
+  guests: [rags, pisces, ksvmr, relc, zevara, ceria, olesm, krshia, gazi, winter sprites]
+-
+  title: "2.06"
+  url: "https://wanderinginn.com/2017/04/02/2-06-2/"
+  prereqs: ["2.05"]
+  rank: 1
+  povs: [magnolia, ryoka, erin]
+  guests: [theofore, ressa, toren, rags] 
+-
+  title: "2.07"
+  url: "https://wanderinginn.com/2017/04/04/2-08/"
+  prereqs: ["2.06"]
+  rank: 1
+  povs: [ryoka, erin]
+  guests: [pisces, winter sprites, toren] 
+-
+  title: "2.08"
+  url: "https://wanderinginn.com/2017/04/09/2-09/"
+  prereqs: ["2.07"]
+  rank: 2
+  povs: [ryoka]
+  guests: [winter sprites, fals, garia, octavia] 
+-
+  title: "2.09"
+  url: "https://wanderinginn.com/2017/04/12/2-10/"
+  prereqs: ["2.07"]
+  rank: 1
+  povs: [erin]
+  guests: [krshia, selys, peslas, ceria, olesm, klbkch, relc] 
+-  
   title: The Wandering Inn - Volume 3 - Flowers of Esthelm
   heading: true
 - 
